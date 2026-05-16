@@ -13,3 +13,11 @@ Skrypt po uruchomieniu zbiera kluczowe informacje o stanie serwera:
    chmod +x lynx.sh
 2. Uruchom skrypt z zapisem wyniku do pliku tekstowego:
    ./lynx.sh > raport.txt
+
+## Podgląd działania skryptu
+
+Oto jak wygląda wygenerowany raport:
+
+![Logo i początek raportu](1.png)
+
+![Dalsza część raportu](2.png)
